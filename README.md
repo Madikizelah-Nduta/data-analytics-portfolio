@@ -1,42 +1,34 @@
-# Mobile Money Revenue & Churn Intelligence
-**Sector:** Telecom  |  **Tool:** Excel  |  **Data:** synthetic
+# Data Analytics Portfolio
 
-> All data in this project is synthetic and generated for demonstration. Fee rates, targets and thresholds are illustrative.
+**Madikizelah (Maddie) Nduta** | Data & BI Analyst | Kenya (UTC+3) | Open to remote, hybrid and on-site roles
 
-## Dashboard preview
+Seven end-to-end analysis projects. Each one starts from a business question, uses an editable **Assumptions** sheet and formula-driven data, and ends in a dashboard with a recommendation.
 
-![Dashboard](images/dashboard.png)
+> All data in these projects is synthetic and generated for demonstration. Targets, fee rates and thresholds are illustrative.
 
-## Business question
-Which mobile money customers drive revenue, which are drifting toward churn, and which agents are not performing?
+## Projects
 
-## Data
-600 customers, 60 agents and about 13,100 transactions (Jan to Sep 2026).
+| # | Project | Sector | Question it answers | Headline result |
+|---|---|---|---|---|
+| 1 | [Mobile Money Revenue & Churn](01-telecom-mobile-money) | Telecom | Which customers drive revenue and which are drifting away? | Champions and Loyal customers are 58% of customers but 83% of fee revenue |
+| 2 | [Retail Sales, Margin & Stock](02-retail-sales-stock-performance) | Retail / FMCG | Which products drive revenue, and where is stock lost or tied up? | 21 SKUs generate 81% of revenue; KES 6.2M tied up in overstock |
+| 3 | [Digital Marketing ROI](03-marketing-campaign-roi) | E-commerce | Which campaigns deserve more budget? | 8 campaigns absorb 32% of spend at ROAS 0.8 |
+| 4 | [Customer Support SLA](04-customer-support-sla) | Operations | Is the team hitting its SLA targets? | Resolution SLA 81.5% vs an 85% target |
+| 5 | [Loan Portfolio & Credit Risk](05-loan-portfolio-credit-risk) | Finance | Where is arrears risk, and are provisions enough? | PAR30 13.3% vs a 5% target |
+| 6 | [HR Workforce & Attrition](06-hr-workforce-attrition) | People analytics | Who is leaving, why, and what does it cost? | Attrition 25.6% vs a 15% target |
+| 7 | [Logistics & Supplier Delivery](07-logistics-supplier-delivery) | Supply chain | Which suppliers deliver on time and in full? | OTIF 75% vs a 90% target |
 
-## What I built
-- Fee revenue model with a configurable fee schedule
-- Customer status (Active, Slipping, Churned) from days since last transaction
-- RFM segmentation (Champions, Loyal, Potential, At Risk, Hibernating)
-- Cross-sell flag and agent benchmarking against tier averages
+## Tools and skills
 
-## Key results (from the workbook)
-- KES 64.4M processed; KES 340,788 in fee revenue
-- Champions and Loyal customers are 58% of customers but 83% of revenue
-- 94 customers slipping (about KES 4,288 of monthly revenue at risk); 64 churned
-- Eastern region has the highest at-risk share (32% vs 26% overall)
-- 17 of 60 agents underperform against their tier
+Excel (SUMIFS, COUNTIFS, INDEX/MATCH, MAXIFS, AVERAGEIFS), KPI and dashboard design, RFM segmentation, ABC analysis, SLA and OTIF reporting, credit-risk and attrition metrics, scenario analysis. Also SQL, Python (Pandas), Power BI and Tableau (see [Portfolio-Projects](https://github.com/Madikizelah-Nduta/Portfolio-Projects)).
 
-## Skills shown
-Excel (SUMIFS, COUNTIFS, INDEX/MATCH, MAXIFS, PERCENTILE), RFM, dashboard design
+## How to explore a project
 
-## Files
-- [Telecom_Mobile_Money_Portfolio.xlsx](Telecom_Mobile_Money_Portfolio.xlsx): the Excel workbook (open it and change the **Assumptions** sheet to see the dashboard update)
-- [docs/BZME_01_Telecom_Mobile_Money_Project_Guide.docx](docs/BZME_01_Telecom_Mobile_Money_Project_Guide.docx): project write-up explaining how it works
+1. Open a project folder and download the Excel workbook.
+2. Open the **Dashboard** sheet.
+3. Open **Assumptions**, change one value, and watch the dashboard update.
+4. Click any dashboard number and trace it back through the calculation to the raw data.
 
-## How to explore
-1. Download the workbook and open the **Dashboard** sheet.
-2. Open **Assumptions**, change one value, and watch the dashboard update.
-3. Click any dashboard number and trace it back through the calculation sheet to the raw data.
+## Contact
 
----
-Built by Madikizelah (Maddie) Nduta | BZME Insights | Maddiekangeti@gmail.com | LinkedIn www.linkedin.com/in/maddie-nduta
+Madikizelah (Maddie) Nduta | maddiekangeti@gmail.com | [LinkedIn](https://www.linkedin.com/in/maddie-nduta)
