@@ -1,34 +1,45 @@
-# Data Analytics Portfolio
+# NGO Programme M&E Dashboard
+**Sector:** NGO / Development  |  **Tool:** Excel  |  **Data:** synthetic
 
-**Madikizelah (Maddie) Nduta** | Data & BI Analyst | Kenya (UTC+3) | Open to remote, hybrid and on-site roles
+> All data in this project is synthetic and generated for demonstration. Targets, rates and thresholds are illustrative.
 
-Seven end-to-end analysis projects. Each one starts from a business question, uses an editable **Assumptions** sheet and formula-driven data, and ends in a dashboard with a recommendation.
+## Dashboard preview
 
-> All data in these projects is synthetic and generated for demonstration. Targets, fee rates and thresholds are illustrative.
+![Dashboard](images/dashboard.png)
 
-## Projects
+## Business question
+Is a donor-funded water and hygiene programme on track against its annual targets, which counties and indicators are lagging, and does spending match delivery?
 
-| # | Project | Sector | Question it answers | Headline result |
-|---|---|---|---|---|
-| 1 | [Mobile Money Revenue & Churn](01-telecom-mobile-money) | Telecom | Which customers drive revenue and which are drifting away? | Champions and Loyal customers are 58% of customers but 83% of fee revenue |
-| 2 | [Retail Sales, Margin & Stock](02-retail-sales-stock-performance) | Retail / FMCG | Which products drive revenue, and where is stock lost or tied up? | 21 SKUs generate 81% of revenue; KES 6.2M tied up in overstock |
-| 3 | [Digital Marketing ROI](03-marketing-campaign-roi) | E-commerce | Which campaigns deserve more budget? | 8 campaigns absorb 32% of spend at ROAS 0.8 |
-| 4 | [Customer Support SLA](04-customer-support-sla) | Operations | Is the team hitting its SLA targets? | Resolution SLA 81.5% vs an 85% target |
-| 5 | [Loan Portfolio & Credit Risk](05-loan-portfolio-credit-risk) | Finance | Where is arrears risk, and are provisions enough? | PAR30 13.3% vs a 5% target |
-| 6 | [HR Workforce & Attrition](06-hr-workforce-attrition) | People analytics | Who is leaving, why, and what does it cost? | Attrition 25.6% vs a 15% target |
-| 7 | [Logistics & Supplier Delivery](07-logistics-supplier-delivery) | Supply chain | Which suppliers deliver on time and in full? | OTIF 75% vs a 90% target |
+## Data
+Monthly results for 8 output indicators across 6 counties (Jan to Sep 2026), annual targets by county, budget and spend by county and quarter, and baseline, midline and target values for 3 outcome indicators.
 
-## Tools and skills
+## What I built
+- Target-to-date and status (On track, Watch, Off track) for every indicator, with editable thresholds
+- County heatmap of progress against target, by indicator
+- Budget absorbed versus delivery by county, with a spend-versus-delivery flag
+- Outcome progress from baseline to target (household survey)
+- Cumulative trend against plan and automatic key findings for the donor report
 
-Excel (SUMIFS, COUNTIFS, INDEX/MATCH, MAXIFS, AVERAGEIFS), KPI and dashboard design, RFM segmentation, ABC analysis, SLA and OTIF reporting, credit-risk and attrition metrics, scenario analysis. Also SQL, Python (Pandas), Power BI and Tableau (see [Portfolio-Projects](https://github.com/Madikizelah-Nduta/Portfolio-Projects)).
+## Key results (from the workbook)
+- 40,401 people reached with safe water access, 90% of the target to date, with 75% of the year elapsed
+- Average delivery is 83% of target to date; 5 of 8 indicators are On track
+- School WASH facilities installed is the weakest indicator at 39%; Water points built or rehabilitated, Households with new handwashing station are on Watch
+- Bungoma has the lowest county delivery (57%) while Kisumu leads (100%)
+- Bungoma is spending ahead of delivery (flagged on the dashboard)
+- KES 88.8M spent (65% of the KES 136M annual budget), about KES 2,199 per person with safe water access
+- Outcome survey: on average 47% of the baseline-to-target gap is closed; the least progress is on households treating drinking water
 
-## How to explore a project
+## Skills shown
+Excel (SUMIFS, AVERAGEIFS, INDEX/MATCH, conditional formatting), M&E indicator design, donor reporting, dashboard design
 
-1. Open a project folder and download the Excel workbook.
-2. Open the **Dashboard** sheet.
-3. Open **Assumptions**, change one value, and watch the dashboard update.
-4. Click any dashboard number and trace it back through the calculation to the raw data.
+## Files
+- [NGO_Programme_ME_Portfolio.xlsx](NGO_Programme_ME_Portfolio.xlsx): the Excel workbook (open it and change the **Assumptions** sheet to see the dashboard update)
+- [docs/BZME_08_NGO_Programme_ME_Project_Guide.docx](docs/BZME_08_NGO_Programme_ME_Project_Guide.docx): project write-up explaining how it works
 
-## Contact
+## How to explore
+1. Download the workbook and open the **Dashboard** sheet.
+2. Open **Assumptions**, change the as-of date or a status threshold, and watch the dashboard update.
+3. Click any dashboard number and trace it back through the calculation sheets to the raw data.
 
-Madikizelah (Maddie) Nduta | maddiekangeti@gmail.com | [LinkedIn](https://www.linkedin.com/in/maddie-nduta)
+---
+Built by Madikizelah (Maddie) Nduta | BZME Insights | [LinkedIn](https://www.linkedin.com/in/maddie-nduta)
