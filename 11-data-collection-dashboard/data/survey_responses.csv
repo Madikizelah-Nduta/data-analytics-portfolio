@@ -1,0 +1,315 @@
+Submission ID,Date,Enumerator,County,Business type,Years operating,Employees,Gender,Age,Monthly sales band (KES),Accepts M-Pesa,M-Pesa share of sales (%),Pays suppliers digitally,Main barrier (non-acceptors),Satisfaction (1-5),Interested in training,Interview minutes
+S0008,2026-08-17,E02,Nairobi,Grocery kiosk,3,1,Male,45,"10,000 to 30,000",Yes,46,No,,5,Yes,9.4
+S0027,2026-08-17,E02,Nairobi,Clothing stall,4,2,Male,35,"Under 10,000",Yes,90,Yes,,2,No,17.0
+S0038,2026-08-17,E01,Nairobi,Grocery kiosk,3,2,Female,37,"10,000 to 30,000",Yes,57,Yes,,4,No,12.2
+S0062,2026-08-17,E01,Nairobi,Food vendor,4,2,Female,35,"Under 10,000",Yes,70,Yes,,5,No,17.0
+S0073,2026-08-17,E01,Nairobi,Boda boda or transport,0,0,Male,27,"Under 10,000",Yes,70,No,,4,No,18.7
+S0074,2026-08-17,E02,Nairobi,Clothing stall,11,2,Female,40,"Over 70,000",Yes,69,Yes,,5,No,12.4
+S0078,2026-08-17,E02,Nairobi,Grocery kiosk,12,1,Female,38,"Under 10,000",Yes,64,No,,4,No,13.1
+S0124,2026-08-17,E03,Kisumu,Grocery kiosk,6,3,Female,33,"Under 10,000",Yes,5,No,,4,No,13.1
+S0125,2026-08-17,E03,Kisumu,Grocery kiosk,8,1,Female,32,"Over 70,000",Yes,5,Yes,,2,No,11.4
+S0127,2026-08-17,E03,Kisumu,Hardware shop,2,0,Male,19,"Under 10,000",Yes,66,No,,4,No,13.6
+S0218,2026-08-17,E05,Mombasa,Other services,15,4,Male,26,"10,000 to 30,000",Yes,43,Yes,,3,No,3.0
+S0254,2026-08-17,E07,Nakuru,Other services,9,0,Female,21,"10,000 to 30,000",No,,Yes,Network or float problems,,No,12.8
+S0259,2026-08-17,E06,Nakuru,Hardware shop,2,1,Male,27,"10,000 to 30,000",Yes,47,No,,3,Yes,18.2
+S0268,2026-08-17,E07,Nakuru,Grocery kiosk,4,0,Female,35,"10,000 to 30,000",Yes,37,No,,4,No,15.9
+S0015,2026-08-18,E01,Nairobi,Food vendor,12,1,Male,20,"10,000 to 30,000",Yes,86,Yes,,5,No,12.8
+S0031,2026-08-18,E02,Nairobi,Grocery kiosk,5,1,Female,46,"Under 10,000",No,,No,Customers prefer cash,,Yes,10.1
+S0054,2026-08-18,E01,Nairobi,Other services,5,1,Female,31,"30,001 to 70,000",Yes,57,No,,3,No,10.0
+S0068,2026-08-18,E01,Nairobi,Grocery kiosk,1,1,Female,41,"30,001 to 70,000",Yes,46,Yes,,3,No,11.4
+S0085,2026-08-18,E01,Nairobi,Grocery kiosk,7,4,Male,23,"30,001 to 70,000",Yes,24,No,,4,No,17.8
+S0111,2026-08-18,E03,Kisumu,Food vendor,9,0,Female,40,"Over 70,000",No,,No,Security or fraud worries,,Yes,14.6
+S0123,2026-08-18,E03,Kisumu,Other services,6,1,Female,42,"10,000 to 30,000",Yes,18,No,,4,Yes,10.4
+S0139,2026-08-18,E03,Kisumu,Grocery kiosk,1,1,Female,34,"10,000 to 30,000",Yes,46,Yes,,5,No,14.9
+S0156,2026-08-18,E05,,Food vendor,4,0,Female,48,"Under 10,000",Yes,28,Yes,,4,No,5.4
+S0180,2026-08-18,E05,Mombasa,Grocery kiosk,14,1,Female,19,"10,000 to 30,000",Yes,18,Yes,,5,No,2.5
+S0191,2026-08-18,E05,Mombasa,Salon or barber,5,0,Female,30,"10,000 to 30,000",Yes,21,Yes,,4,Yes,6.3
+S0194,2026-08-18,E05,Mombasa,Hardware shop,7,2,Male,29,"10,000 to 30,000",Yes,31,Yes,,5,No,8.4
+S0240,2026-08-18,E07,Nakuru,Boda boda or transport,4,2,Male,33,"30,001 to 70,000",Yes,67,No,,5,No,11.7
+S0250,2026-08-18,E06,Nakuru,Grocery kiosk,8,0,Male,52,"Under 10,000",Yes,47,Yes,,4,Yes,16.0
+S0271,2026-08-18,E07,Nakuru,Boda boda or transport,3,2,Female,38,"Under 10,000",Yes,35,Yes,,2,Yes,16.7
+S0279,2026-08-18,E07,Nakuru,Food vendor,12,0,Female,32,"30,001 to 70,000",Yes,54,Yes,,2,No,12.8
+S0307,2026-08-18,E07,Nakuru,Clothing stall,0,1,Female,44,"Over 70,000",Yes,37,Yes,,4,No,13.7
+S0025,2026-08-19,E01,Nairobi,Clothing stall,4,2,Female,40,"Under 10,000",Yes,31,No,,5,No,12.6
+S0029,2026-08-19,E01,Nairobi,Food vendor,2,2,Male,38,"10,000 to 30,000",Yes,77,Yes,,4,Yes,17.7
+S0057,2026-08-19,E01,Nairobi,Other services,5,1,Female,40,"10,000 to 30,000",No,,Yes,Security or fraud worries,,No,16.7
+S0060,2026-08-19,E01,Nairobi,Hardware shop,2,1,Male,57,"30,001 to 70,000",Yes,43,No,,5,Yes,13.9
+S0075,2026-08-19,E01,Nairobi,Hardware shop,3,3,Female,45,"30,001 to 70,000",Yes,75,Yes,,2,No,14.9
+S0090,2026-08-19,E03,Kisumu,Food vendor,0,0,Female,7,"30,001 to 70,000",Yes,40,No,,4,Yes,16.2
+S0097,2026-08-19,E03,Kisumu,Other services,3,2,Male,26,"10,000 to 30,000",No,,No,"Do not know how, need training",,Yes,17.6
+S0117,2026-08-19,E03,Kisumu,Food vendor,5,1,Male,56,"10,000 to 30,000",No,,No,Transaction fees,,Yes,9.3
+S0132,2026-08-19,E03,Kisumu,Grocery kiosk,7,2,Male,41,"10,000 to 30,000",Yes,35,Yes,,4,Yes,15.6
+S0157,2026-08-19,E04,Mombasa,Clothing stall,10,3,Female,36,"30,001 to 70,000",Yes,46,Yes,,4,No,14.6
+S0168,2026-08-19,E05,Mombasa,Grocery kiosk,13,1,Male,41,"10,000 to 30,000",No,30,Yes,Customers prefer cash,,No,6.7
+S0231,2026-08-19,E06,Nakuru,Food vendor,1,1,Female,32,"Under 10,000",Yes,28,No,,1,No,10.6
+S0232,2026-08-19,E07,Nakuru,Grocery kiosk,0,0,Female,19,"Under 10,000",Yes,27,No,,4,Yes,14.6
+S0244,2026-08-19,E06,Nakuru,Other services,1,1,Female,45,"Over 70,000",Yes,20,No,,4,No,17.1
+S0249,2026-08-19,E06,Nakuru,Food vendor,1,2,Female,29,"Under 10,000",Yes,23,Yes,,4,No,16.7
+S0280,2026-08-19,E06,Nakuru,Boda boda or transport,11,1,Male,46,"10,000 to 30,000",No,,Yes,Transaction fees,,No,9.4
+S0290,2026-08-19,E06,Nakuru,Salon or barber,5,2,Male,45,"10,000 to 30,000",Yes,21,No,,5,No,17.4
+S0019,2026-08-20,E01,Nairobi,Grocery kiosk,1,2,Male,49,"10,000 to 30,000",Yes,38,Yes,,4,Yes,15.9
+S0024,2026-08-20,E02,Nairobi,Grocery kiosk,13,1,Female,39,"30,001 to 70,000",Yes,46,No,,5,Yes,21.1
+S0024,2026-08-20,E02,Nairobi,Grocery kiosk,13,1,Female,39,"30,001 to 70,000",Yes,46,No,,5,Yes,21.1
+S0070,2026-08-20,E02,Nairobi,Hardware shop,10,0,Male,40,"10,000 to 30,000",Yes,38,Yes,,4,No,12.3
+S0092,2026-08-20,E03,Kisumu,Food vendor,1,2,Female,54,"30,001 to 70,000",No,,No,Network or float problems,,Yes,12.9
+S0107,2026-08-20,E03,Kisumu,Hardware shop,2,3,Male,33,"30,001 to 70,000",Yes,53,Yes,,5,No,9.8
+S0110,2026-08-20,E03,Kisumu,Salon or barber,10,3,Female,34,"10,000 to 30,000",Yes,50,Yes,,4,No,16.7
+S0113,2026-08-20,E03,Kisumu,Other services,5,2,Male,31,"30,001 to 70,000",Yes,57,Yes,,4,Yes,16.5
+S0178,2026-08-20,E05,Mombasa,Food vendor,3,1,Female,39,"10,000 to 30,000",Yes,18,No,,4,Yes,7.1
+S0196,2026-08-20,E05,Mombasa,Food vendor,18,0,Male,41,"30,001 to 70,000",Yes,5,No,,2,No,8.1
+S0198,2026-08-20,E04,Mombasa,Grocery kiosk,1,2,Female,34,"10,000 to 30,000",Yes,20,No,,5,No,17.5
+S0199,2026-08-20,E04,Mombasa,Grocery kiosk,5,1,Male,37,"30,001 to 70,000",Yes,5,No,,3,No,6.7
+S0203,2026-08-20,E04,Mombasa,Grocery kiosk,1,4,Female,39,"Under 10,000",Yes,60,No,,2,No,12.4
+S0251,2026-08-20,E07,Nakuru,Salon or barber,6,1,Male,34,"10,000 to 30,000",Yes,59,No,,4,No,13.6
+S0299,2026-08-20,E07,Nakuru,Boda boda or transport,8,1,Female,53,"10,000 to 30,000",Yes,18,Yes,,4,No,17.0
+S0001,2026-08-21,E02,Nairobi,Boda boda or transport,2,0,Female,47,,Yes,53,Yes,,2,No,13.7
+S0126,2026-08-21,E03,Kisumu,Hardware shop,9,1,Male,21,"10,000 to 30,000",No,,No,Security or fraud worries,,No,15.8
+S0129,2026-08-21,E03,Kisumu,Food vendor,2,4,Female,28,"10,000 to 30,000",Yes,66,No,,3,Yes,15.1
+S0134,2026-08-21,E03,Kisumu,Hardware shop,6,3,Male,31,"10,000 to 30,000",No,,No,Customers prefer cash,,Yes,15.1
+S0136,2026-08-21,E03,Kisumu,Boda boda or transport,8,2,Female,35,"Under 10,000",No,,No,Transaction fees,,No,8.8
+S0152,2026-08-21,E04,Mombasa,Clothing stall,10,0,Female,38,"10,000 to 30,000",Yes,56,No,,5,No,15.2
+S0179,2026-08-21,E05,Mombasa,Food vendor,2,0,Male,36,"Under 10,000",Yes,49,No,,1,No,7.1
+S0189,2026-08-21,E05,Mombasa,Hardware shop,13,1,Female,21,"Under 10,000",Yes,43,No,,4,No,4.3
+S0207,2026-08-21,E04,Mombasa,Grocery kiosk,9,3,Male,22,"10,000 to 30,000",Yes,85,Yes,,4,Yes,14.0
+S0222,2026-08-21,E05,Mombasa,Grocery kiosk,8,2,Male,50,"10,000 to 30,000",Yes,56,Yes,,5,Yes,9.0
+S0226,2026-08-21,E05,Mombasa,Other services,4,5,Male,35,"10,000 to 30,000",Yes,53,Yes,,4,No,2.5
+S0277,2026-08-21,E06,Nakuru,Salon or barber,1,1,Female,40,"Under 10,000",No,,No,Customers prefer cash,,Yes,15.8
+S0298,2026-08-21,E07,Nakuru,Clothing stall,2,0,Male,50,"30,001 to 70,000",Yes,67,No,,5,No,17.6
+S0301,2026-08-21,E07,Nakuru,Grocery kiosk,10,1,Female,36,"10,000 to 30,000",Yes,56,Yes,,3,Yes,9.5
+S0022,2026-08-22,E01,Nairobi,Grocery kiosk,2,2,Male,51,"10,000 to 30,000",Yes,36,No,,4,Yes,17.7
+S0049,2026-08-22,E01,Nairobi,Grocery kiosk,6,3,Female,42,"Over 70,000",Yes,46,Yes,,2,No,9.9
+S0065,2026-08-22,E02,Nairobi,Clothing stall,2,4,Male,40,"Under 10,000",Yes,74,Yes,,4,Yes,10.0
+S0109,2026-08-22,E03,Kisumu,Food vendor,2,1,Male,37,"Under 10,000",Yes,28,No,,4,No,18.2
+S0140,2026-08-22,E03,Kisumu,Salon or barber,5,1,Female,29,"30,001 to 70,000",Yes,26,Yes,,4,No,13.5
+S0144,2026-08-22,E03,Kisumu,Grocery kiosk,0,0,Male,33,"10,000 to 30,000",Yes,35,No,,3,No,8.6
+S0163,2026-08-22,E04,Mombasa,Grocery kiosk,3,2,Male,22,"Over 70,000",Yes,78,No,,5,Yes,13.4
+S0182,2026-08-22,E04,Mombasa,Boda boda or transport,6,2,Male,34,"Over 70,000",Yes,43,Yes,,4,No,7.8
+S0185,2026-08-22,E04,Mombasa,Clothing stall,1,1,Male,36,"Under 10,000",No,,No,Transaction fees,,No,16.3
+S0225,2026-08-22,E05,Mombasa,Food vendor,8,0,Female,38,"30,001 to 70,000",Yes,62,Yes,,3,No,7.9
+S0237,2026-08-22,E07,Nakuru,Grocery kiosk,0,0,Male,29,"10,000 to 30,000",Yes,22,No,,4,No,14.0
+S0272,2026-08-22,E06,Nakuru,Salon or barber,9,1,Male,41,"30,001 to 70,000",Yes,42,Yes,,4,No,16.6
+S0273,2026-08-22,E06,Nakuru,Food vendor,4,1,Male,34,"10,000 to 30,000",No,,No,Customers prefer cash,,Yes,18.0
+S0278,2026-08-22,E06,Nakuru,Clothing stall,4,2,Male,30,"30,001 to 70,000",Yes,69,No,,4,Yes,17.2
+S0300,2026-08-22,E07,Nakuru,Boda boda or transport,6,1,Female,40,"Under 10,000",Yes,45,Yes,,4,No,20.2
+S0011,2026-08-23,E01,Nairobi,Boda boda or transport,7,3,Male,42,"10,000 to 30,000",Yes,48,No,,3,No,16.4
+S0083,2026-08-23,E01,Nairobi,Food vendor,6,2,Male,31,"10,000 to 30,000",Yes,35,No,,3,No,11.9
+S0128,2026-08-23,E03,Kisumu,Clothing stall,8,0,Female,32,"Over 70,000",No,,Yes,Customers prefer cash,,Yes,13.2
+S0133,2026-08-23,E03,Kisumu,Other services,5,1,Female,41,"30,001 to 70,000",Yes,31,No,,5,Yes,8.5
+S0138,2026-08-23,E03,Kisumu,Other services,10,3,Male,40,"10,000 to 30,000",Yes,40,No,,2,Yes,10.3
+S0142,2026-08-23,E03,Kisumu,Clothing stall,3,2,Male,19,"10,000 to 30,000",Yes,38,Yes,,3,No,8.4
+S0175,2026-08-23,E04,Mombasa,Grocery kiosk,1,3,Female,36,"Under 10,000",Yes,37,Yes,,5,Yes,12.4
+S0183,2026-08-23,E04,Mombasa,Clothing stall,6,1,Female,44,"10,000 to 30,000",No,,No,"Do not know how, need training",,Yes,13.4
+S0267,2026-08-23,E07,Nakuru,Salon or barber,2,0,Female,32,"Over 70,000",Yes,29,Yes,,3,No,11.0
+S0009,2026-08-24,E02,Nairobi,Grocery kiosk,7,1,Male,35,"30,001 to 70,000",Yes,56,No,,5,No,7.6
+S0010,2026-08-24,E02,Nairobi,Grocery kiosk,4,0,Male,32,"30,001 to 70,000",Yes,44,No,,2,No,15.8
+S0028,2026-08-24,E01,Nairobi,Food vendor,2,1,Female,34,"10,000 to 30,000",Yes,13,Yes,,2,No,9.0
+S0048,2026-08-24,E01,Nairobi,Salon or barber,2,0,Female,29,"30,001 to 70,000",Yes,60,Yes,,4,Yes,11.3
+S0059,2026-08-24,E01,Nairobi,Grocery kiosk,6,1,Male,38,"10,000 to 30,000",Yes,37,Yes,,4,Yes,13.8
+S0066,2026-08-24,E01,Nairobi,Boda boda or transport,14,1,Female,55,"30,001 to 70,000",Yes,49,Yes,,5,Yes,15.5
+S0069,2026-08-24,E02,Nairobi,Hardware shop,0,0,Male,35,"Under 10,000",Yes,54,No,,5,Yes,10.0
+S0091,2026-08-24,E03,Kisumu,Salon or barber,6,3,Female,150,"30,001 to 70,000",Yes,22,Yes,,4,No,10.5
+S0098,2026-08-24,E03,Kisumu,Grocery kiosk,5,2,Female,42,"30,001 to 70,000",Yes,75,Yes,,5,No,11.2
+S0103,2026-08-24,E03,Kisumu,Other services,3,1,Female,24,"10,000 to 30,000",Yes,70,No,,3,Yes,11.9
+S0137,2026-08-24,E03,Kisumu,Salon or barber,9,1,Male,33,"Under 10,000",No,,No,Customers prefer cash,,No,13.4
+S0164,2026-08-24,E05,Mombasa,Grocery kiosk,2,4,Male,32,"Under 10,000",Yes,57,No,,4,Yes,8.6
+S0165,2026-08-24,E05,Mombasa,Salon or barber,1,1,Female,30,"30,001 to 70,000",Yes,19,Yes,,4,Yes,8.7
+S0202,2026-08-24,E05,Mombasa,Food vendor,9,2,Male,28,"Under 10,000",No,30,No,Transaction fees,,No,6.2
+S0219,2026-08-24,E04,Mombasa,Clothing stall,1,1,Female,23,"Under 10,000",No,,No,Transaction fees,,No,17.9
+S0224,2026-08-24,E04,Mombasa,Clothing stall,7,0,Male,40,"10,000 to 30,000",No,,No,Transaction fees,,No,11.6
+S0282,2026-08-24,E06,Nakuru,Food vendor,8,4,Male,43,"10,000 to 30,000",Yes,69,No,,1,Yes,12.5
+S0289,2026-08-24,E07,Nakuru,Salon or barber,5,3,Female,30,"Under 10,000",Yes,5,No,,4,Yes,17.2
+S0005,2026-08-25,E02,Nairobi,Clothing stall,3,2,Male,39,"Under 10,000",Yes,46,Yes,,4,No,13.1
+S0040,2026-08-25,E02,Nairobi,Grocery kiosk,5,2,Male,19,"Over 70,000",Yes,43,No,,5,Yes,13.1
+S0063,2026-08-25,E01,Nairobi,Other services,1,3,Female,45,"10,000 to 30,000",Yes,44,Yes,,5,Yes,15.1
+S0093,2026-08-25,E03,Kisumu,Salon or barber,8,0,Male,20,"30,001 to 70,000",No,,No,Customers prefer cash,,Yes,18.3
+S0104,2026-08-25,E03,Kisumu,Clothing stall,4,1,Female,49,"10,000 to 30,000",Yes,41,No,,4,Yes,15.9
+S0116,2026-08-25,E03,Kisumu,Food vendor,3,2,Female,40,"Over 70,000",Yes,49,Yes,,4,No,13.8
+S0153,2026-08-25,E04,Mombasa,Grocery kiosk,4,2,Male,38,"10,000 to 30,000",Yes,64,Yes,,5,Yes,9.7
+S0167,2026-08-25,E04,Mombasa,Grocery kiosk,5,0,Male,50,"Over 70,000",Yes,50,Yes,,3,No,17.1
+S0170,2026-08-25,E04,Mombasa,Food vendor,11,0,Female,31,"10,000 to 30,000",Yes,32,No,,4,No,22.0
+S0212,2026-08-25,E05,Mombasa,Grocery kiosk,5,1,Male,39,"10,000 to 30,000",No,,No,Customers prefer cash,,No,5.2
+S0228,2026-08-25,E05,Mombasa,Food vendor,6,1,Male,52,"Under 10,000",Yes,58,Yes,,5,No,6.2
+S0238,2026-08-25,E06,Nakuru,Other services,14,2,Male,41,"10,000 to 30,000",No,,No,Transaction fees,,No,12.9
+S0245,2026-08-25,E07,Nakuru,Food vendor,11,3,Male,34,"Over 70,000",Yes,41,Yes,,4,Yes,11.1
+S0261,2026-08-25,E06,Nakuru,Grocery kiosk,1,2,Female,30,"10,000 to 30,000",No,,No,Network or float problems,,No,14.8
+S0291,2026-08-25,E06,Nakuru,Food vendor,6,2,Female,43,"30,001 to 70,000",Yes,71,Yes,,3,No,17.7
+S0296,2026-08-25,E06,Nakuru,Salon or barber,3,1,Female,31,"Under 10,000",No,,No,Network or float problems,,No,17.6
+S0297,2026-08-25,E06,Nakuru,Grocery kiosk,20,2,Female,28,"30,001 to 70,000",Yes,23,Yes,,4,No,11.8
+S0305,2026-08-25,E06,Nakuru,Clothing stall,2,2,Male,37,"30,001 to 70,000",Yes,61,Yes,,5,No,18.8
+S0002,2026-08-26,E02,Nairobi,Salon or barber,4,1,Male,40,,Yes,45,Yes,,5,Yes,14.9
+S0007,2026-08-26,E02,Nairobi,Grocery kiosk,6,3,Male,30,"Under 10,000",Yes,45,No,,4,No,12.7
+S0014,2026-08-26,E02,Nairobi,Grocery kiosk,3,2,Male,38,"10,000 to 30,000",Yes,49,Yes,,1,No,15.9
+S0039,2026-08-26,E01,Nairobi,Clothing stall,5,1,Female,38,"10,000 to 30,000",Yes,51,Yes,,4,No,14.7
+S0115,2026-08-26,E03,Kisumu,Clothing stall,6,1,Female,24,"Under 10,000",No,,No,Transaction fees,,Yes,12.1
+S0146,2026-08-26,E03,Kisumu,Boda boda or transport,8,3,Male,43,"Under 10,000",No,,No,"Do not know how, need training",,Yes,12.3
+S0162,2026-08-26,E05,Mombasa,Other services,6,2,Male,38,"Under 10,000",Yes,25,No,,4,Yes,13.9
+S0169,2026-08-26,E05,Mombasa,Clothing stall,2,2,Female,54,"10,000 to 30,000",Yes,30,No,,3,Yes,7.8
+S0171,2026-08-26,E04,Mombasa,Boda boda or transport,13,0,Male,43,"30,001 to 70,000",No,,No,Customers prefer cash,,No,12.7
+S0181,2026-08-26,E04,Mombasa,Boda boda or transport,0,1,Male,43,"Over 70,000",No,,No,Customers prefer cash,,Yes,5.5
+S0188,2026-08-26,E05,Mombasa,Grocery kiosk,8,3,Male,27,"10,000 to 30,000",Yes,58,No,,4,Yes,3.0
+S0195,2026-08-26,E05,Mombasa,Food vendor,1,1,Male,35,"30,001 to 70,000",Yes,15,No,,3,No,10.5
+S0213,2026-08-26,E05,Mombasa,Boda boda or transport,2,2,Female,40,"30,001 to 70,000",Yes,65,Yes,,3,No,8.1
+S0242,2026-08-26,E07,Nakuru,Food vendor,0,3,Male,42,"Over 70,000",Yes,53,No,,4,Yes,17.1
+S0252,2026-08-26,E06,Nakuru,Boda boda or transport,6,3,Female,28,"10,000 to 30,000",Yes,42,Yes,,3,No,17.5
+S0255,2026-08-26,E07,Nakuru,Other services,4,4,Female,27,"10,000 to 30,000",Yes,43,Yes,,3,Yes,14.5
+S0262,2026-08-26,E06,Nakuru,Other services,7,0,Female,23,"Over 70,000",Yes,26,Yes,,5,No,11.3
+S0003,2026-08-27,E02,Nairobi,Clothing stall,3,2,Male,31,"30,001 to 70,000",Yes,56,No,,4,No,12.6
+S0042,2026-08-27,E02,Nairobi,Grocery kiosk,1,2,Female,33,"10,000 to 30,000",No,,No,Transaction fees,,Yes,10.3
+S0047,2026-08-27,E01,Nairobi,Clothing stall,13,0,Female,62,"Over 70,000",Yes,56,Yes,,5,Yes,14.4
+S0077,2026-08-27,E01,Nairobi,Clothing stall,6,1,Male,35,"10,000 to 30,000",Yes,18,Yes,,4,Yes,10.2
+S0102,2026-08-27,E03,Kisumu,Salon or barber,8,2,Female,35,"10,000 to 30,000",Yes,45,Yes,,2,No,11.5
+S0149,2026-08-27,E03,Kisumu,Grocery kiosk,3,2,Female,43,"10,000 to 30,000",Yes,47,No,,3,Yes,12.0
+S0176,2026-08-27,E04,Mombasa,Grocery kiosk,7,0,Female,38,"Under 10,000",Yes,47,No,,5,No,10.3
+S0205,2026-08-27,E04,Mombasa,Hardware shop,5,1,Female,47,"10,000 to 30,000",Yes,5,No,,3,Yes,10.0
+S0246,2026-08-27,E07,Nakuru,Food vendor,1,1,Male,23,"Over 70,000",Yes,32,Yes,,5,Yes,15.3
+S0253,2026-08-27,E06,Nakuru,Clothing stall,10,2,Female,45,"10,000 to 30,000",No,,No,Transaction fees,,No,7.8
+S0253,2026-08-27,E06,Nakuru,Clothing stall,10,2,Female,45,"10,000 to 30,000",No,,No,Transaction fees,,No,7.8
+S0260,2026-08-27,E07,Nakuru,Food vendor,1,1,Male,32,"30,001 to 70,000",No,,Yes,Transaction fees,,Yes,12.2
+S0269,2026-08-27,E07,Nakuru,Salon or barber,3,6,Male,46,"30,001 to 70,000",Yes,58,Yes,,3,No,20.1
+S0283,2026-08-27,E06,Nakuru,Food vendor,6,0,Male,55,"30,001 to 70,000",Yes,50,Yes,,5,Yes,16.3
+S0006,2026-08-28,E01,Nairobi,Grocery kiosk,1,2,Female,59,"10,000 to 30,000",Yes,45,No,,4,No,12.8
+S0020,2026-08-28,E02,Nairobi,Food vendor,4,0,Female,40,"Under 10,000",Yes,28,Yes,,4,Yes,21.4
+S0041,2026-08-28,E02,Nairobi,Grocery kiosk,3,0,Male,28,"Over 70,000",Yes,62,No,,4,Yes,7.7
+S0147,2026-08-28,E03,Kisumu,Grocery kiosk,8,2,Male,33,"30,001 to 70,000",Yes,66,No,,4,No,17.5
+S0177,2026-08-28,E04,Mombasa,Food vendor,7,1,Female,39,"30,001 to 70,000",No,,No,Security or fraud worries,,Yes,15.9
+S0197,2026-08-28,E05,Mombasa,Food vendor,5,1,Male,40,"30,001 to 70,000",No,30,Yes,Transaction fees,,Yes,4.4
+S0201,2026-08-28,E04,Mombasa,Boda boda or transport,1,0,Male,43,"10,000 to 30,000",No,,No,Customers prefer cash,,No,13.6
+S0229,2026-08-28,E05,Mombasa,Boda boda or transport,2,1,Male,42,"Over 70,000",Yes,5,No,,5,No,9.3
+S0248,2026-08-28,E07,Nakuru,Food vendor,5,2,Female,28,"10,000 to 30,000",Yes,64,No,,3,Yes,11.0
+S0286,2026-08-28,E07,Nakuru,Food vendor,6,0,Female,20,"10,000 to 30,000",Yes,5,Yes,,3,No,7.5
+S0293,2026-08-28,E06,Nakuru,Other services,9,1,Male,41,"10,000 to 30,000",Yes,46,Yes,,4,No,16.5
+S0004,2026-08-29,E01,Nairobi,Other services,8,1,Female,41,"10,000 to 30,000",Yes,63,Yes,,3,No,21.9
+S0033,2026-08-29,E02,Nairobi,Clothing stall,5,2,Male,41,"Over 70,000",Yes,36,No,,2,No,12.4
+S0051,2026-08-29,E02,Nairobi,Food vendor,6,5,Female,37,"10,000 to 30,000",Yes,38,Yes,,4,Yes,14.4
+S0089,2026-08-29,E02,Nairobi,Salon or barber,2,1,Male,51,"Over 70,000",Yes,42,No,,5,Yes,10.6
+S0106,2026-08-29,E03,Kisumu,Food vendor,4,3,Female,43,"30,001 to 70,000",No,,Yes,Customers prefer cash,,Yes,11.7
+S0106,2026-08-29,E03,Kisumu,Food vendor,4,3,Female,43,"30,001 to 70,000",No,,Yes,Customers prefer cash,,Yes,11.7
+S0122,2026-08-29,E03,Kisumu,Grocery kiosk,3,2,Male,34,"Over 70,000",No,,No,Network or float problems,,Yes,16.3
+S0143,2026-08-29,E03,Kisumu,Food vendor,1,0,Male,20,"10,000 to 30,000",Yes,46,Yes,,4,No,17.1
+S0145,2026-08-29,E03,Kisumu,Food vendor,2,1,Male,49,"Over 70,000",Yes,22,No,,4,No,14.0
+S0184,2026-08-29,E04,Mombasa,Grocery kiosk,8,2,Male,36,"30,001 to 70,000",Yes,79,No,,3,No,7.8
+S0187,2026-08-29,E05,Mombasa,Hardware shop,2,3,Male,25,"Over 70,000",Yes,49,No,,5,Yes,8.4
+S0227,2026-08-29,E04,Mombasa,Clothing stall,6,2,Male,42,"30,001 to 70,000",Yes,75,Yes,,4,No,11.2
+S0012,2026-08-30,E01,Nairobi,Food vendor,1,1,Female,27,"30,001 to 70,000",Yes,68,Yes,,4,No,15.5
+S0050,2026-08-30,E01,Nairobi,Grocery kiosk,13,0,Female,33,"Over 70,000",Yes,23,Yes,,4,No,15.3
+S0087,2026-08-30,E02,Nairobi,Grocery kiosk,11,1,Male,38,"Over 70,000",Yes,23,No,,3,No,12.6
+S0096,2026-08-30,E03,Kisumu,Salon or barber,3,0,Male,31,"10,000 to 30,000",Yes,32,No,,4,Yes,17.0
+S0101,2026-08-30,E03,Kisumu,Clothing stall,6,2,Female,37,"30,001 to 70,000",No,,No,Transaction fees,,Yes,10.5
+S0131,2026-08-30,E03,Kisumu,Food vendor,0,2,Female,31,"Under 10,000",Yes,17,No,,5,Yes,13.9
+S0135,2026-08-30,E03,Kisumu,Hardware shop,5,0,Male,27,"10,000 to 30,000",No,,No,Customers prefer cash,,No,8.1
+S0141,2026-08-30,E03,Kisumu,Boda boda or transport,5,1,Male,45,"10,000 to 30,000",Yes,25,No,,2,Yes,13.5
+S0148,2026-08-30,E03,Kisumu,Clothing stall,8,0,Male,31,"30,001 to 70,000",No,,No,Customers prefer cash,,No,10.4
+S0150,2026-08-30,E03,Kisumu,Grocery kiosk,3,3,Female,25,"10,000 to 30,000",Yes,54,No,,4,Yes,13.1
+S0155,2026-08-30,E05,,Boda boda or transport,3,1,Female,38,"30,001 to 70,000",Yes,18,No,,4,No,11.8
+S0216,2026-08-30,E04,Mombasa,Hardware shop,5,0,Female,35,"10,000 to 30,000",Yes,26,No,,5,Yes,9.5
+S0217,2026-08-30,E05,Mombasa,Food vendor,2,7,Female,49,"10,000 to 30,000",Yes,23,Yes,,4,No,6.7
+S0223,2026-08-30,E05,Mombasa,Grocery kiosk,14,2,Female,49,"30,001 to 70,000",Yes,6,Yes,,3,No,8.1
+S0234,2026-08-30,E06,Nakuru,Salon or barber,3,1,Male,49,"10,000 to 30,000",Yes,38,Yes,,4,No,19.0
+S0239,2026-08-30,E07,Nakuru,Grocery kiosk,0,2,Female,44,"30,001 to 70,000",Yes,32,No,,5,No,16.6
+S0241,2026-08-30,E06,Nakuru,Hardware shop,0,2,Male,32,"30,001 to 70,000",Yes,46,Yes,,4,Yes,14.2
+S0266,2026-08-30,E07,Nakuru,Salon or barber,3,3,Male,24,"30,001 to 70,000",Yes,60,Yes,,5,Yes,15.2
+S0270,2026-08-30,E06,Nakuru,Grocery kiosk,3,0,Male,22,"Under 10,000",No,,No,Transaction fees,,Yes,17.2
+S0035,2026-08-31,E02,Nairobi,Other services,3,2,Female,42,"10,000 to 30,000",Yes,58,Yes,,5,No,12.5
+S0046,2026-08-31,E02,Nairobi,Other services,3,2,Female,37,"Under 10,000",Yes,83,No,,3,Yes,15.3
+S0058,2026-08-31,E01,Nairobi,Boda boda or transport,12,2,Female,45,"Under 10,000",Yes,37,Yes,,4,Yes,13.9
+S0072,2026-08-31,E01,Nairobi,Hardware shop,12,1,Male,33,"Under 10,000",Yes,69,Yes,,3,No,13.6
+S0099,2026-08-31,E03,Kisumu,Boda boda or transport,3,1,Female,26,"10,000 to 30,000",Yes,46,No,,3,No,11.4
+S0265,2026-08-31,E06,Nakuru,Clothing stall,1,5,Male,34,"30,001 to 70,000",Yes,44,Yes,,5,No,13.5
+S0306,2026-08-31,E06,Nakuru,Salon or barber,10,1,Female,47,"10,000 to 30,000",Yes,5,No,,5,No,14.2
+S0017,2026-09-01,E01,Nairobi,Hardware shop,0,0,Female,39,"10,000 to 30,000",No,,No,Transaction fees,,Yes,10.3
+S0021,2026-09-01,E01,Nairobi,Grocery kiosk,3,3,Female,26,"Under 10,000",Yes,45,No,,3,No,10.4
+S0044,2026-09-01,E02,Nairobi,Clothing stall,0,0,Male,19,"10,000 to 30,000",No,,No,Network or float problems,,No,8.6
+S0061,2026-09-01,E01,Nairobi,Food vendor,2,0,Female,62,"Under 10,000",Yes,51,Yes,,4,No,15.6
+S0080,2026-09-01,E01,Nairobi,Boda boda or transport,2,2,Female,45,"30,001 to 70,000",Yes,29,Yes,,4,Yes,17.3
+S0105,2026-09-01,E03,Kisumu,Food vendor,2,1,Male,27,"10,000 to 30,000",Yes,51,No,,3,No,8.1
+S0108,2026-09-01,E03,Kisumu,Hardware shop,1,1,Female,37,"Over 70,000",Yes,79,No,,3,No,13.9
+S0186,2026-09-01,E04,Mombasa,Grocery kiosk,6,1,Male,48,"Under 10,000",Yes,45,Yes,,4,Yes,17.6
+S0193,2026-09-01,E04,Mombasa,Other services,5,1,Male,30,"Under 10,000",Yes,26,No,,5,No,8.3
+S0204,2026-09-01,E05,Mombasa,Hardware shop,2,0,Male,34,"10,000 to 30,000",Yes,9,Yes,,4,No,11.3
+S0210,2026-09-01,E05,Mombasa,Grocery kiosk,9,3,Male,42,"30,001 to 70,000",Yes,62,No,,4,Yes,5.0
+S0214,2026-09-01,E05,Mombasa,Grocery kiosk,10,2,Male,42,"30,001 to 70,000",Yes,58,No,,3,Yes,6.6
+S0215,2026-09-01,E05,Mombasa,Hardware shop,4,4,Female,53,"Under 10,000",Yes,24,Yes,,4,Yes,4.4
+S0235,2026-09-01,E07,Nakuru,Boda boda or transport,6,1,Male,40,"30,001 to 70,000",No,,No,Security or fraud worries,,No,14.5
+S0274,2026-09-01,E07,Nakuru,Grocery kiosk,8,1,Male,27,"Under 10,000",No,,No,Customers prefer cash,,Yes,15.5
+S0281,2026-09-01,E07,Nakuru,Grocery kiosk,1,2,Female,33,"10,000 to 30,000",Yes,38,Yes,,3,Yes,14.1
+S0295,2026-09-01,E07,Nakuru,Food vendor,14,0,Male,23,"Under 10,000",No,,Yes,Network or float problems,,Yes,11.6
+S0304,2026-09-01,E07,Nakuru,Food vendor,3,2,Female,39,"10,000 to 30,000",No,,No,Network or float problems,,Yes,18.3
+S0308,2026-09-01,E06,Nakuru,Salon or barber,4,0,Female,59,"Under 10,000",No,,No,Customers prefer cash,,No,12.0
+S0023,2026-09-02,E01,Nairobi,Grocery kiosk,6,1,Female,28,"Over 70,000",Yes,49,Yes,,5,No,8.1
+S0030,2026-09-02,E02,Nairobi,Boda boda or transport,3,4,Female,42,"10,000 to 30,000",No,,No,Security or fraud worries,,No,18.8
+S0043,2026-09-02,E01,Nairobi,Boda boda or transport,3,2,Female,32,"30,001 to 70,000",Yes,21,Yes,,4,Yes,12.5
+S0084,2026-09-02,E01,Nairobi,Clothing stall,4,1,Female,31,"10,000 to 30,000",Yes,54,Yes,,5,No,7.7
+S0094,2026-09-02,E03,Kisumu,Food vendor,4,0,Female,43,"10,000 to 30,000",Yes,9,No,,2,No,16.4
+S0112,2026-09-02,E03,Kisumu,Grocery kiosk,8,2,Male,43,"10,000 to 30,000",Yes,36,No,,5,No,16.9
+S0114,2026-09-02,E03,Kisumu,Boda boda or transport,2,0,Male,39,"30,001 to 70,000",Yes,12,Yes,,1,Yes,17.8
+S0121,2026-09-02,E03,Kisumu,Other services,2,0,Female,40,"Under 10,000",No,,No,Transaction fees,,Yes,14.0
+S0130,2026-09-02,E03,Kisumu,Grocery kiosk,4,2,Female,48,"Under 10,000",No,,No,Transaction fees,,Yes,17.6
+S0209,2026-09-02,E05,Mombasa,Grocery kiosk,26,2,Female,37,"30,001 to 70,000",Yes,61,Yes,,5,No,6.3
+S0211,2026-09-02,E05,Mombasa,Clothing stall,0,2,Female,42,"10,000 to 30,000",No,30,No,Customers prefer cash,,Yes,4.7
+S0230,2026-09-02,E07,Nakuru,Hardware shop,9,3,Male,31,"10,000 to 30,000",Yes,55,Yes,,4,Yes,13.8
+S0236,2026-09-02,E06,Nakuru,Boda boda or transport,3,3,Male,37,"Under 10,000",Yes,56,No,,5,Yes,12.9
+S0247,2026-09-02,E07,Nakuru,Food vendor,4,0,Female,28,"10,000 to 30,000",Yes,68,No,,4,No,16.7
+S0276,2026-09-02,E06,Nakuru,Boda boda or transport,7,3,Female,40,"10,000 to 30,000",Yes,7,No,,3,No,17.8
+S0285,2026-09-02,E07,Nakuru,Boda boda or transport,4,2,Male,59,"10,000 to 30,000",Yes,51,Yes,,1,Yes,12.9
+S0287,2026-09-02,E07,Nakuru,Food vendor,4,1,Female,27,"30,001 to 70,000",Yes,20,No,,4,Yes,13.7
+S0287,2026-09-02,E07,Nakuru,Food vendor,4,1,Female,27,"30,001 to 70,000",Yes,20,No,,4,Yes,13.7
+S0303,2026-09-02,E06,Nakuru,Salon or barber,12,3,Female,29,"Under 10,000",Yes,46,No,,4,No,18.0
+S0026,2026-09-03,E02,Nairobi,Grocery kiosk,10,0,Male,34,"Over 70,000",Yes,72,Yes,,5,No,16.8
+S0052,2026-09-03,E01,Nairobi,Food vendor,4,3,Female,38,"30,001 to 70,000",Yes,36,Yes,,4,Yes,21.1
+S0071,2026-09-03,E01,Nairobi,Clothing stall,6,2,Male,48,"10,000 to 30,000",Yes,43,Yes,,4,No,14.5
+S0081,2026-09-03,E02,Nairobi,Food vendor,3,0,Male,26,"Under 10,000",No,,Yes,Network or float problems,,Yes,15.2
+S0095,2026-09-03,E03,Kisumu,Food vendor,5,1,Male,32,"10,000 to 30,000",Yes,27,No,,3,No,15.1
+S0151,2026-09-03,E03,Kisumu,Other services,2,0,Female,34,"10,000 to 30,000",No,,No,"Do not know how, need training",,Yes,14.8
+S0160,2026-09-03,E04,Mombasa,Food vendor,3,1,Male,38,"10,000 to 30,000",Yes,18,Yes,,5,Yes,13.0
+S0160,2026-09-03,E04,Mombasa,Food vendor,3,1,Male,38,"10,000 to 30,000",Yes,18,Yes,,5,Yes,13.0
+S0161,2026-09-03,E05,Mombasa,Food vendor,8,1,Female,37,"10,000 to 30,000",Yes,26,No,,4,No,4.8
+S0174,2026-09-03,E05,Mombasa,Food vendor,3,1,Male,38,"Over 70,000",Yes,51,Yes,,4,No,2.5
+S0190,2026-09-03,E05,Mombasa,Clothing stall,1,1,Male,26,"30,001 to 70,000",Yes,19,No,,5,No,2.5
+S0192,2026-09-03,E05,Mombasa,Boda boda or transport,2,4,Male,38,"Under 10,000",Yes,11,No,,4,No,4.8
+S0200,2026-09-03,E04,Mombasa,Food vendor,5,3,Female,26,"Under 10,000",Yes,43,Yes,,3,No,19.1
+S0208,2026-09-03,E04,Mombasa,Food vendor,3,3,Female,43,"30,001 to 70,000",Yes,17,Yes,,2,Yes,15.5
+S0243,2026-09-03,E06,Nakuru,Food vendor,6,3,Male,46,"Over 70,000",Yes,62,No,,5,Yes,13.5
+S0013,2026-09-04,E01,Nairobi,Grocery kiosk,1,1,Female,38,"30,001 to 70,000",Yes,67,No,,5,No,13.2
+S0016,2026-09-04,E02,Nairobi,Hardware shop,3,4,Male,53,"10,000 to 30,000",Yes,53,Yes,,4,No,15.6
+S0018,2026-09-04,E01,Nairobi,Grocery kiosk,3,1,Male,42,"30,001 to 70,000",Yes,58,No,,4,No,15.2
+S0034,2026-09-04,E01,Nairobi,Grocery kiosk,4,0,Female,34,"10,000 to 30,000",Yes,32,Yes,,3,Yes,11.8
+S0037,2026-09-04,E02,Nairobi,Grocery kiosk,2,0,Female,19,"Under 10,000",Yes,59,No,,5,No,13.4
+S0053,2026-09-04,E02,Nairobi,Grocery kiosk,2,3,Female,31,"10,000 to 30,000",Yes,28,Yes,,3,No,14.6
+S0055,2026-09-04,E02,Nairobi,Food vendor,4,1,Male,64,"10,000 to 30,000",Yes,36,No,,1,No,10.5
+S0064,2026-09-04,E02,Nairobi,Hardware shop,9,0,Male,31,"Under 10,000",Yes,53,Yes,,5,No,13.0
+S0082,2026-09-04,E01,Nairobi,Grocery kiosk,14,1,Female,33,"Under 10,000",Yes,26,Yes,,3,Yes,11.3
+S0088,2026-09-04,E02,Nairobi,Boda boda or transport,0,0,Male,35,"10,000 to 30,000",Yes,47,No,,5,No,12.2
+S0118,2026-09-04,E03,Kisumu,Salon or barber,6,2,Female,20,"Under 10,000",Yes,32,No,,5,Yes,17.0
+S0120,2026-09-04,E03,Kisumu,Food vendor,4,3,Male,40,"10,000 to 30,000",Yes,34,No,,3,Yes,12.0
+S0158,2026-09-04,E05,,Food vendor,9,2,Female,27,"Under 10,000",Yes,38,Yes,,5,No,5.9
+S0159,2026-09-04,E04,Mombasa,Grocery kiosk,4,1,Male,43,"Under 10,000",No,,No,Security or fraud worries,,Yes,14.8
+S0206,2026-09-04,E05,Mombasa,Food vendor,9,1,Male,42,"10,000 to 30,000",Yes,20,No,,4,Yes,11.0
+S0233,2026-09-04,E06,Nakuru,Boda boda or transport,7,3,Male,53,"10,000 to 30,000",No,,Yes,Security or fraud worries,,No,13.5
+S0256,2026-09-04,E06,Nakuru,Clothing stall,9,3,Male,36,"10,000 to 30,000",No,,No,Customers prefer cash,,Yes,18.2
+S0284,2026-09-04,E07,Nakuru,Food vendor,8,3,Female,46,"Under 10,000",Yes,33,Yes,,5,No,15.5
+S0302,2026-09-04,E06,Nakuru,Grocery kiosk,2,0,Male,22,"10,000 to 30,000",Yes,42,No,,3,Yes,10.0
+S0036,2026-09-05,E01,Nairobi,Grocery kiosk,9,1,Female,31,"Under 10,000",Yes,61,No,,3,No,12.0
+S0045,2026-09-05,E01,Nairobi,Food vendor,4,4,Male,45,"10,000 to 30,000",Yes,59,No,,5,No,17.8
+S0079,2026-09-05,E02,Nairobi,Hardware shop,12,1,Female,31,"10,000 to 30,000",Yes,37,Yes,,4,No,17.4
+S0086,2026-09-05,E02,Nairobi,Grocery kiosk,3,0,Female,52,"30,001 to 70,000",Yes,49,No,,5,No,8.0
+S0100,2026-09-05,E03,Kisumu,Salon or barber,2,3,Male,30,"Under 10,000",No,,No,Transaction fees,,Yes,9.2
+S0100,2026-09-05,E03,Kisumu,Salon or barber,2,3,Male,30,"Under 10,000",No,,No,Transaction fees,,Yes,9.2
+S0154,2026-09-05,E04,Mombasa,Clothing stall,4,3,Male,48,"Under 10,000",No,,No,"Do not know how, need training",,No,14.9
+S0166,2026-09-05,E05,Mombasa,Boda boda or transport,1,2,Male,33,"30,001 to 70,000",Yes,22,No,,3,No,11.1
+S0172,2026-09-05,E04,Mombasa,Salon or barber,0,3,Female,34,"30,001 to 70,000",Yes,43,Yes,,5,No,12.1
+S0220,2026-09-05,E05,Mombasa,Clothing stall,4,5,Male,36,"10,000 to 30,000",No,,No,Customers prefer cash,,Yes,7.3
+S0221,2026-09-05,E05,Mombasa,Grocery kiosk,7,2,Male,49,"30,001 to 70,000",Yes,26,No,,4,No,5.1
+S0257,2026-09-05,E07,Nakuru,Grocery kiosk,6,3,Female,47,"Under 10,000",Yes,56,Yes,,3,No,14.2
+S0264,2026-09-05,E06,Nakuru,Grocery kiosk,8,3,Male,43,"Under 10,000",Yes,28,Yes,,4,Yes,13.7
+S0275,2026-09-05,E06,Nakuru,Hardware shop,2,1,Male,26,"Over 70,000",Yes,30,Yes,,2,No,17.4
+S0294,2026-09-05,E06,Nakuru,Hardware shop,9,3,Male,34,"10,000 to 30,000",Yes,5,No,,5,No,13.4
+S0032,2026-09-06,E01,Nairobi,Clothing stall,9,2,Male,32,"Under 10,000",No,,No,Network or float problems,,No,11.8
+S0056,2026-09-06,E02,Nairobi,Grocery kiosk,6,1,Male,41,"30,001 to 70,000",Yes,34,Yes,,4,Yes,16.2
+S0067,2026-09-06,E02,Nairobi,Hardware shop,12,2,Female,43,"30,001 to 70,000",Yes,51,Yes,,4,No,15.1
+S0076,2026-09-06,E02,Nairobi,Salon or barber,28,1,Male,55,"Under 10,000",Yes,63,Yes,,4,Yes,12.1
+S0119,2026-09-06,E03,Kisumu,Clothing stall,4,0,Female,36,"Over 70,000",Yes,40,Yes,,5,Yes,11.8
+S0173,2026-09-06,E05,Mombasa,Boda boda or transport,5,3,Female,37,"Under 10,000",Yes,19,Yes,,5,No,8.8
+S0258,2026-09-06,E06,Nakuru,Hardware shop,1,3,Male,37,"10,000 to 30,000",Yes,45,Yes,,3,No,13.6
+S0263,2026-09-06,E07,Nakuru,Food vendor,6,3,Female,38,"Under 10,000",Yes,36,No,,4,No,9.7
+S0288,2026-09-06,E07,Nakuru,Grocery kiosk,6,2,Female,56,"10,000 to 30,000",Yes,33,No,,5,Yes,19.6
+S0292,2026-09-06,E07,Nakuru,Grocery kiosk,5,0,Female,21,"10,000 to 30,000",Yes,48,Yes,,4,No,11.6
