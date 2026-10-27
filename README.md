@@ -36,5 +36,5 @@ Twelve business analytics projects, each with a formula-driven Excel workbook, a
 
 ## Contact
 - LinkedIn: [linkedin.com/in/maddie-nduta](https://www.linkedin.com/in/maddie-nduta)
-- Email: [bzmeinsights@gmail.com](mailto:bzmeinsights@gmail.com)
+- Email: [bzmeinsights@gmail.com](mailto:bzmeinsights@gmail.com) | [maddiekangeti@gmail.com](mailto:maddiekangeti@gmail.com)
 - BZME Insights portfolio: [bzmedesigns.site/portfolio.html](https://www.bzmedesigns.site/portfolio.html)
