@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 **Madikizelah (Maddie) Nduta** | Data Analyst | Power BI, SQL, Python, Excel | Kenya (UTC+3), open to remote roles
 
-Eleven business analytics projects, each with a formula-driven Excel workbook, a dashboard and a write-up explaining the method. Built under **BZME Insights**.
+TWELVE business analytics projects, each with a formula-driven Excel workbook, a dashboard and a write-up explaining the method. Built under **BZME Insights**.
 
 > **Note:** all data is synthetic and created for demonstration. Targets, rates and thresholds are illustrative.
 
